@@ -1,4 +1,5 @@
-COVID-19 SELF ASSESSMENT TOOL:
+# COVID-19 SELF ASSESSMENT TOOL:
+
 This repository contains a simple self-assessment tool to help determine whether you may need to be tested for COVID-19. This tool guides you through a series of questions and provides recommendations based on your answers.
 # Screenshots
 
